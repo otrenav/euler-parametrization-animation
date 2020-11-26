@@ -8,6 +8,8 @@
 - Omar Trejo
 - October, 2016
 
+POC for a simple animation for Euler Parametrization.
+
 ---
 
 > "We are the people we have been waiting for."
